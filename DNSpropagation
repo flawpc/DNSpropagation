@@ -1,0 +1,1 @@
+javascript:(function()%7Bwindow.open(  "https%3A%2F%2Fwww.whatsmydns.net%2F%23A%2F" %2B document.domain)%7D)()
